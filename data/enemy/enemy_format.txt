@@ -1,0 +1,7 @@
+1  敵番号(type)
+2  HP(health)
+3  攻撃力(strength)
+4  防御力(deffence)
+5  ノックバック耐性(knockback_res)
+
+改行2つで次のデータへ
