@@ -8,9 +8,7 @@
 
 ## インストール方法
 
-以下のリンクから実行ファイル群をダウンロードしてください。
-
-`https://www.dropbox.com/s/sljhx9y4efw7n5x/BustersMission.zip?dl=0`
+[ここ](https://www.dropbox.com/s/sljhx9y4efw7n5x/BustersMission.zip?dl=0)から実行ファイル群をダウンロードしてください。
 
 
 
